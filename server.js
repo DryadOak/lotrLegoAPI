@@ -26,7 +26,7 @@ const sets = {
         instructions: 'Not Found',
         setImage: 'https://live.staticflickr.com/65535/52736861733_3bf92cbfcb_b.jpg'
     },
-    set9469: {
+    9469: {
         setName: 'gandalf arrives',
         setNumber: '9469',
         pieceCount: 83,
@@ -38,7 +38,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9469',
         setImage: 'https://images.brickset.com/sets/large/9469-1.jpg?201202260353'
     },
-    set9470: {
+    9470: {
         setName: 'shelob attacks',
         setNumber: '9470',
         pieceCount: 227,
@@ -50,7 +50,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9470',
         setImage: 'https://images.brickset.com/sets/large/9470-1.jpg?201206070409'
     },
-    set9471: {
+    9471: {
         setName: 'uruk-hai army',
         setNumber: '9471',
         pieceCount: 257,
@@ -62,7 +62,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9471',
         setImage: 'https://images.brickset.com/sets/large/9471-1.jpg?201206070409'
     },
-    set9472: {
+    9472: {
         setName: 'attack on weathertop',
         setNumber: '9472',
         pieceCount: 430,
@@ -74,7 +74,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9472',
         setImage: 'https://images.brickset.com/sets/large/9472-1.jpg?201206070409'
     },
-    set9473: {
+    9473: {
         setName: 'the mines of moria',
         setNumber: '9473',
         pieceCount: 776,
@@ -86,7 +86,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9473',
         setImage: 'https://images.brickset.com/sets/large/9473-1.jpg?201206070409'
     },
-    set9474: {
+    9474: {
         setName: 'the battle of helm\'s deep',
         setNumber: '9474',
         pieceCount: 1368,
@@ -98,7 +98,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9474',
         setImage: 'https://images.brickset.com/sets/large/9474-1.jpg?201206070409'
     },
-    set9476: {
+    9476: {
         setName: 'the orc forge',
         setNumber: '9476',
         pieceCount: 363,
@@ -110,7 +110,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/9476',
         setImage: 'https://images.brickset.com/sets/large/9476-1.jpg?201202260353'
     },
-    set10237: {
+    10237: {
         setName: 'tower of orthanc',
         setNumber: '10237',
         pieceCount: 2359,
@@ -122,7 +122,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/10237',
         setImage: 'https://images.brickset.com/sets/large/10237-1.jpg?201302260353'
     }, 
-    set30210: {
+    30210: {
         setName: 'frodo with cooking corner',
         setNumber: '30210',
         pieceCount: 33,
@@ -134,7 +134,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/30210',
         setImage: 'https://images.brickset.com/sets/large/30210-1.jpg?201202260353'
     },
-    set30211: {
+    30211: {
         setName: 'uruk-hai with ballista',
         setNumber: '30211',
         pieceCount: 21,
@@ -146,7 +146,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/30211',
         setImage: 'https://images.brickset.com/sets/large/30211-1.jpg?201202260353'
     },
-    set79005: {
+    79005: {
         setName: 'the wizard battle',
         setNumber: '79005',
         pieceCount: 113,
@@ -158,7 +158,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/79005',
         setImage: 'https://images.brickset.com/sets/large/79005-1.jpg?201202260353'
     },
-    set79006: {
+    79006: {
         setName: 'the council of elrond',
         setNumber: '79006',
         pieceCount: 243,
@@ -170,7 +170,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/79006',
         setImage: 'https://images.brickset.com/sets/large/79006-1.jpg?201306200720'
     },
-    set79007: {
+    79007: {
         setName: 'battle at the black gate',
         setNumber: '79007',
         pieceCount: 656,
@@ -182,7 +182,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/79007',
         setImage: 'https://images.brickset.com/sets/large/79007-1.jpg?201306200720'
     },
-    set79008: {
+    79008: {
         setName: 'pirate ship ambush',
         setNumber: '79008',
         pieceCount: 756,
@@ -194,7 +194,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/79008',
         setImage: 'https://images.brickset.com/sets/large/79008-1.jpg?201302101044'
     },
-    set5000202: {
+    5000202: {
         setName: 'elrond',
         setNumber: '5000202',
         pieceCount: 6,
@@ -206,7 +206,7 @@ const sets = {
         instructions: 'N/A',
         setImage: 'https://images.brickset.com/sets/large/5000202-1.jpg?201503130234'
     },
-    set10316: {
+    10316: {
         setName: 'rivendell',
         setNumber: '10316',
         pieceCount: 6167,
@@ -218,7 +218,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/10316',
         setImage: 'https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png?format=webply&fit=bounds&quality=70&width=960&height=960&dpr=1.5'
       },
-    set40630: {
+    40630: {
         setName: 'frodo and gollum',
         setNumber: '40630',
         pieceCount: 184,
@@ -230,7 +230,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/40630',
         setImage: 'https://images.brickset.com/sets/large/40630-1.jpg?202205121146'
     },
-    set40631: {
+    40631: {
         setName: 'gandalf the grey and balrog',
         setNumber: '40631',
         pieceCount: 348,
@@ -242,7 +242,7 @@ const sets = {
         instructions: 'https://www.lego.com/en-gb/service/buildinginstructions/40631',
         setImage: 'https://images.brickset.com/sets/large/40631-1.jpg?202205121146'
     },
-    set40632: {
+    40632: {
         setName: 'aragorn & arwen',
         setNumber: '40632',
         pieceCount: 261,
