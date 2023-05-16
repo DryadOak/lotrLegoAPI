@@ -270,7 +270,7 @@ app.get('/', (req, res) => {
 })
 app.get('/api/:setNumber', (req, res) => {
     const setNumber = req.params.setNumber
-    sets[setNumber] ? res.json(sets[setNumber]) : res.json(sets[notFound])
+    sets[setNumber] ? res.json(sets[setNumber]) : res.json(sets.notFound)
         
     
 })
