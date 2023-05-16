@@ -279,3 +279,8 @@ app.get('/api/:setNumber', (req, res) => {
 app.listen(process.env.PORT || PORT, () => {
     console.log(`server running on port ${PORT}`)
 })
+
+app.get('/headOrTails', (req, res) => {
+    const flip = Math.random() < .5 ? 'heads' : 'tail'
+    res.json(flip)
+})
