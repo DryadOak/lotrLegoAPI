@@ -266,7 +266,7 @@ const PORT = 8000
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/html')
+    res.sendFile(__dirname + '/index.html')
 })
 app.get('/api/:setNumber', (req, res) => {
     const setNumber = req.params.setNumber
